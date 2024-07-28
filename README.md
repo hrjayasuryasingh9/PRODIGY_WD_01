@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a responsive landing page created as Task-01 for my internship at SkillCraft Technologies. The landing page features an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu has a fixed position and is visible on all pages.
+This project is a responsive landing page created as Task-01 for my internship at ProDigy InfoTech. The landing page features an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu has a fixed position and is visible on all pages.
 
 ## Technologies Used
 
@@ -18,8 +18,8 @@ This project is a responsive landing page created as Task-01 for my internship a
 - **Fixed Navigation**: The navigation menu is fixed and remains visible as the user scrolls through the page.
 
 ## Acknowledgments
-- Thanks to SkillCraft Technologies for the internship opportunity.
+- Thanks to ProDigy InfoTech for the internship opportunity.
 - Inspiration for the design and functionality was drawn from modern web design principles and practices.
-- Guidance and support from the SkillCraft Technologies development tea.
+- Guidance and support from the ProDigy InfoTech development tea.
 
 ## View My Website Here: https://hrjayasuryasingh9.github.io/PRODIGY_WD_01/Task-1
