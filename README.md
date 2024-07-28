@@ -18,8 +18,8 @@ This project is a responsive landing page created as Task-01 for my internship a
 - **Fixed Navigation**: The navigation menu is fixed and remains visible as the user scrolls through the page.
 
 ## Acknowledgments
--**Thanks to SkillCraft Technologies for the internship opportunity.
--**Inspiration for the design and functionality was drawn from modern web design principles and practices.
--**Guidance and support from the SkillCraft Technologies development tea.
+- Thanks to SkillCraft Technologies for the internship opportunity.
+- Inspiration for the design and functionality was drawn from modern web design principles and practices.
+- Guidance and support from the SkillCraft Technologies development tea.
 
 ## View My Website Here: https://hrjayasuryasingh9.github.io/PRODIGY_WD_01/Task-1
